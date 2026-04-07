@@ -9,7 +9,7 @@ from aiogram.types import InlineKeyboardMarkup, InlineKeyboardButton
 
 # ВСТАВЬ СЮДА СВОЙ ТОКЕН ОТ BOTFATHER
 BOT_TOKEN = "-"
-ADMIN_ID = 954119969 # 👈 Замени эти цифры на свой реальный Telegram ID
+ADMIN_ID = - # 👈 Замени эти цифры на свой реальный Telegram ID
 
 logging.basicConfig(level=logging.INFO)
 bot = Bot(token=BOT_TOKEN)
